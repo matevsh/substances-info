@@ -56,3 +56,31 @@ model VerificationToken {
 
   @@unique([identifier, token])
 }
+
+model SubstanceGroup {
+  id         String              @id @default(cuid())
+  name       String              @unique
+  value      String              @unique
+  subGroups  SubstanceSubGroup[]
+  substances Substance[]
+}
+
+model SubstanceSubGroup {
+  id         String          @id @default(cuid())
+  name       String          @unique
+  value      String          @unique
+  group      SubstanceGroup? @relation(fields: [groupId], references: [id])
+  groupId    String
+  substances Substance[]
+}
+
+model Substance {
+  id         String            @id @default(cuid())
+  name       String            @unique
+  value      String            @unique
+  hover      String
+  group      SubstanceGroup    @relation(fields: [groupId], references: [id])
+  groupId    String
+  subGroup   SubstanceSubGroup @relation(fields: [subGroupId], references: [id])
+  subGroupId String
+}
