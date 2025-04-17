@@ -1,0 +1,5114 @@
+[
+  {
+    "name": "Grzyby psylocybinowe",
+    "hover": "Grzyby zawierające psychodeliczne związki psylocybinę i psylocynę.",
+    "group": "Psychodeliki",
+    "subgroup": "Klasyczne psychodeliki",
+    "url": "/wiki/Psilocybin_mushrooms",
+    "common": true
+  },
+  {
+    "name": "LSD",
+    "hover": "Półsyntetyczny psychodelik z grupy lizergamidów, znany z silnych efektów wizualnych i poznawczych.",
+    "group": "Psychodeliki",
+    "subgroup": "Klasyczne psychodeliki",
+    "url": "/wiki/LSD",
+    "common": true
+  },
+  {
+    "name": "Meskalina",
+    "hover": "Naturalnie występujący psychodelik znajdowany w niektórych kaktusach (np. pejotl, San Pedro).",
+    "group": "Psychodeliki",
+    "subgroup": "Klasyczne psychodeliki",
+    "url": "/wiki/Mescaline",
+    "common": true
+  },
+  {
+    "name": "DMT",
+    "hover": "Silny, krótko działający psychodelik występujący naturalnie w wielu roślinach i zwierzętach.",
+    "group": "Psychodeliki",
+    "subgroup": "Klasyczne psychodeliki",
+    "url": "/wiki/DMT",
+    "common": true
+  },
+  {
+    "name": "Ayahuasca",
+    "hover": "Psychoaktywny wywar tradycyjnie używany w Amazonii, zwykle zawierający DMT i inhibitor MAO.",
+    "group": "Psychodeliki",
+    "subgroup": "Klasyczne psychodeliki",
+    "url": "/wiki/Ayahuasca",
+    "common": true
+  },
+  {
+    "name": "1B-LSD",
+    "hover": "Analog LSD, substancja psychoaktywna z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1B-LSD",
+    "common": false
+  },
+  {
+    "name": "1cP-AL-LAD",
+    "hover": "Analog AL-LAD i LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1cP-AL-LAD",
+    "common": false
+  },
+  {
+    "name": "1cP-LSD",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1cP-LSD",
+    "common": false
+  },
+  {
+    "name": "1cP-MiPLA",
+    "hover": "Analog MiPLA i LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1cP-MiPLA",
+    "common": false
+  },
+  {
+    "name": "1P-ETH-LAD",
+    "hover": "Analog ETH-LAD i LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1P-ETH-LAD",
+    "common": false
+  },
+  {
+    "name": "1P-LSD",
+    "hover": "Analog LSD, uważany za prolek LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1P-LSD",
+    "common": false
+  },
+  {
+    "name": "1V-LSD",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/1V-LSD",
+    "common": false
+  },
+  {
+    "name": "AL-LAD",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów, często opisywany jako bardziej wizualny i mniej mentalny niż LSD.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/AL-LAD",
+    "common": false
+  },
+  {
+    "name": "ALD-52",
+    "hover": "Analog LSD (znany też jako 1A-LSD), psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/ALD-52",
+    "common": false
+  },
+  {
+    "name": "ETH-LAD",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów, uważany za silniejszy niż LSD.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/ETH-LAD",
+    "common": false
+  },
+  {
+    "name": "LAE-32",
+    "hover": "Amid kwasu lizergowego, substancja psychoaktywna.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/LAE-32",
+    "common": false
+  },
+  {
+    "name": "LSA",
+    "hover": "Amid kwasu lizergowego, naturalnie występujący psychodelik znajdowany w nasionach powojowatych.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/LSA",
+    "common": false
+  },
+  {
+    "name": "LSH",
+    "hover": "Hydroksylowa pochodna LSA, potencjalnie występująca w nasionach powojowatych.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/LSH",
+    "common": false
+  },
+  {
+    "name": "LSD",
+    "hover": "Półsyntetyczny psychodelik z grupy lizergamidów (LSD-25), znany z silnych efektów wizualnych i poznawczych.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/LSD",
+    "common": true
+  },
+  {
+    "name": "LSM-775",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/LSM-775",
+    "common": false
+  },
+  {
+    "name": "LSZ",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/LSZ",
+    "common": false
+  },
+  {
+    "name": "MiPLA",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/MiPLA",
+    "common": false
+  },
+  {
+    "name": "PARGY-LAD",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/PARGY-LAD",
+    "common": false
+  },
+  {
+    "name": "PRO-LAD",
+    "hover": "Analog LSD, psychodelik z grupy lizergamidów.",
+    "group": "Psychodeliki",
+    "subgroup": "Lizergamidy",
+    "url": "/wiki/PRO-LAD",
+    "common": false
+  },
+  {
+    "name": "aMT",
+    "hover": "Alfa-Metylotryptamina, psychodelik i stymulant z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/AMT",
+    "common": false
+  },
+  {
+    "name": "DET",
+    "hover": "N,N-Dietylo tryptamina, psychodelik z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/DET",
+    "common": false
+  },
+  {
+    "name": "DiPT",
+    "hover": "N,N-Diizopropylo tryptamina, psychodelik znany z wywoływania głównie zniekształceń słuchowych.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/DiPT",
+    "common": false
+  },
+  {
+    "name": "DMT",
+    "hover": "N,N-Dimetylo tryptamina, silny, krótko działający psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/DMT",
+    "common": true
+  },
+  {
+    "name": "DPT",
+    "hover": "N,N-Dipropylo tryptamina, psychodelik z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/DPT",
+    "common": false
+  },
+  {
+    "name": "EPT",
+    "hover": "N-Etylo-N-propylo tryptamina, psychodelik z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/EPT",
+    "common": false
+  },
+  {
+    "name": "MET",
+    "hover": "N-Metylo-N-etylo tryptamina, psychodelik z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/MET",
+    "common": false
+  },
+  {
+    "name": "MiPT",
+    "hover": "N-Metylo-N-izopropylo tryptamina, psychodelik z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/MiPT",
+    "common": false
+  },
+  {
+    "name": "MPT",
+    "hover": "N-Metylo-N-propylo tryptamina, psychodelik z grupy tryptamin.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/MPT",
+    "common": false
+  },
+  {
+    "name": "NMT",
+    "hover": "N-Metylotryptamina, tryptamina występująca naturalnie, o potencjalnym działaniu psychoaktywnym.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Tryptamina",
+    "hover": "Monoaminowy alkaloid, strukturalny szkielet dla wielu psychodelików.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawowe",
+    "url": "/wiki/Tryptamine_(compound)",
+    "common": false
+  },
+  {
+    "name": "4-AcO-DET",
+    "hover": "4-Acetoxy-N,N-dietylo tryptamina, prolek 4-HO-DET, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-AcO-DET",
+    "common": false
+  },
+  {
+    "name": "4-AcO-DiPT",
+    "hover": "4-Acetoxy-N,N-diizopropylo tryptamina, prolek 4-HO-DiPT, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-AcO-DiPT",
+    "common": false
+  },
+  {
+    "name": "4-AcO-DMT",
+    "hover": "4-Acetoxy-N,N-dimetylo tryptamina (Psylacetyna), prolek psylocyny, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-AcO-DMT",
+    "common": false
+  },
+  {
+    "name": "4-AcO-MET",
+    "hover": "4-Acetoxy-N-metylo-N-etylo tryptamina, prolek 4-HO-MET, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-AcO-MET",
+    "common": false
+  },
+  {
+    "name": "4-AcO-MiPT",
+    "hover": "4-Acetoxy-N-metylo-N-izopropylo tryptamina, prolek 4-HO-MiPT, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-AcO-MiPT",
+    "common": false
+  },
+  {
+    "name": "4-HO-DET",
+    "hover": "4-Hydroksy-N,N-dietylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-DET",
+    "common": false
+  },
+  {
+    "name": "4-HO-DiPT",
+    "hover": "4-Hydroksy-N,N-diizopropylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-DiPT",
+    "common": false
+  },
+  {
+    "name": "4-HO-DPT",
+    "hover": "4-Hydroksy-N,N-dipropylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-DPT",
+    "common": false
+  },
+  {
+    "name": "4-HO-EPT",
+    "hover": "4-Hydroksy-N-etylo-N-propylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-EPT",
+    "common": false
+  },
+  {
+    "name": "4-HO-MET",
+    "hover": "4-Hydroksy-N-metylo-N-etylo tryptamina (Metocyna), psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-MET",
+    "common": false
+  },
+  {
+    "name": "4-HO-MiPT",
+    "hover": "4-Hydroksy-N-metylo-N-izopropylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-MiPT",
+    "common": false
+  },
+  {
+    "name": "4-HO-MPT",
+    "hover": "4-Hydroksy-N-metylo-N-propylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/4-HO-MPT",
+    "common": false
+  },
+  {
+    "name": "5,6-MDO-DMT",
+    "hover": "5,6-Metylenodioksy-N,N-dimetylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/5,6-MDO-DMT",
+    "common": false
+  },
+  {
+    "name": "5-Br-DMT",
+    "hover": "5-Bromo-N,N-dimetylo tryptamina, naturalnie występująca bromowana tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-MeO-aMT",
+    "hover": "5-Metoksy-alfa-metylotryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-MeO-DALT",
+    "hover": "5-Metoksy-N,N-diallilo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/5-MeO-DALT",
+    "common": false
+  },
+  {
+    "name": "5-MeO-DiPT",
+    "hover": "5-Metoksy-N,N-diizopropylo tryptamina (Foxy), psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/5-MeO-DiPT",
+    "common": false
+  },
+  {
+    "name": "5-MeO-DMT",
+    "hover": "5-Metoksy-N,N-dimetylo tryptamina, silna psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/5-MeO-DMT",
+    "common": true
+  },
+  {
+    "name": "5-MeO-EiPT",
+    "hover": "5-Metoksy-N-etylo-N-izopropylo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-MeO-MALT",
+    "hover": "5-Metoksy-N-metylo-N-allilo tryptamina, psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-MeO-MiPT",
+    "hover": "5-Metoksy-N-metylo-N-izopropylo tryptamina (Moxy), psychodeliczna tryptamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/5-MeO-MiPT",
+    "common": false
+  },
+  {
+    "name": "Baeocystyna",
+    "hover": "Fosforylowany analog NMT (4-PO-NMT), alkaloid w grzybach psylocybinowych.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/Baeocystin",
+    "common": false
+  },
+  {
+    "name": "Bufotenina",
+    "hover": "5-Hydroksy-N,N-dimetylo tryptamina (5-HO-DMT), psychodeliczna tryptamina występująca w niektórych ropuchach i roślinach.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/Bufotenin",
+    "common": false
+  },
+  {
+    "name": "Ibogaina",
+    "hover": "Psychoaktywny alkaloid z rośliny Iboga, o działaniu psychodelicznym i dysocjacyjnym.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/Ibogaine",
+    "common": false
+  },
+  {
+    "name": "Psylocyna",
+    "hover": "4-Hydroksy-N,N-dimetylo tryptamina (4-HO-DMT), aktywny metabolit psylocybiny, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/Psilocin",
+    "common": true
+  },
+  {
+    "name": "Psylocybina",
+    "hover": "4-Fosforyloksy-N,N-dimetylo tryptamina (4-PO-DMT), główny psychoaktywny składnik grzybów psylocybinowych.",
+    "group": "Psychodeliki",
+    "subgroup": "Tryptaminy podstawione",
+    "url": "/wiki/Psilocybin",
+    "common": true
+  },
+  {
+    "name": "3C-E",
+    "hover": "Homolog eskaliny, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/3C-E",
+    "common": false
+  },
+  {
+    "name": "3C-P",
+    "hover": "Homolog proskaliny, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/3C-P",
+    "common": false
+  },
+  {
+    "name": "Allyleskalina",
+    "hover": "Homolog meskaliny, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/Allylescaline",
+    "common": false
+  },
+  {
+    "name": "Eskalina",
+    "hover": "Homolog meskaliny, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/Escaline",
+    "common": false
+  },
+  {
+    "name": "Meskalina",
+    "hover": "Naturalnie występujący psychodelik znajdowany w niektórych kaktusach (np. pejotl, San Pedro).",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/Mescaline",
+    "common": true
+  },
+  {
+    "name": "Metalyleskalina",
+    "hover": "Homolog meskaliny (MAL), psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/Methallylescaline",
+    "common": false
+  },
+  {
+    "name": "Proskalina",
+    "hover": "Homolog meskaliny, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": "/wiki/Proscaline",
+    "common": false
+  },
+  {
+    "name": "TMA",
+    "hover": "Trimetoksyamfetamina (TMA-1), psychodeliczna amfetamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Homologi meskaliny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2C-B",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-B",
+    "common": true
+  },
+  {
+    "name": "2C-C",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-C",
+    "common": false
+  },
+  {
+    "name": "2C-D",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-D",
+    "common": false
+  },
+  {
+    "name": "2C-E",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-E",
+    "common": false
+  },
+  {
+    "name": "2C-H",
+    "hover": "Fenetyloamina będąca prekursorem dla wielu innych z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-H",
+    "common": false
+  },
+  {
+    "name": "2C-I",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-I",
+    "common": false
+  },
+  {
+    "name": "2C-P",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-x",
+    "url": "/wiki/2C-P",
+    "common": false
+  },
+  {
+    "name": "2C-T",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-T-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-T-x",
+    "url": "/wiki/2C-T",
+    "common": false
+  },
+  {
+    "name": "2C-T-2",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-T-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-T-x",
+    "url": "/wiki/2C-T-2",
+    "common": false
+  },
+  {
+    "name": "2C-T-7",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-T-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-T-x",
+    "url": "/wiki/2C-T-7",
+    "common": false
+  },
+  {
+    "name": "2C-T-21",
+    "hover": "Psychodeliczna fenetyloamina z rodziny 2C-T-x.",
+    "group": "Psychodeliki",
+    "subgroup": "2C-T-x",
+    "url": "/wiki/2C-T-21",
+    "common": false
+  },
+  {
+    "name": "2C-B-FLY",
+    "hover": "Psychodeliczna fenetyloamina, pochodna 2C-B.",
+    "group": "Psychodeliki",
+    "subgroup": "Pochodne 2C-x",
+    "url": "/wiki/2C-B-FLY",
+    "common": false
+  },
+  {
+    "name": "βk-2C-B",
+    "hover": "Beta-ketonowa pochodna 2C-B, psychodelik i empatogen.",
+    "group": "Psychodeliki",
+    "subgroup": "Pochodne 2C-x",
+    "url": "/wiki/%CE%92k-2C-B",
+    "common": false
+  },
+  {
+    "name": "BOD",
+    "hover": "Beta-metoksy-2C-D, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Pochodne 2C-x",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2,5-DMA",
+    "hover": "2,5-Dimetoksyamfetamina, psychodeliczna amfetamina z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": "/wiki/2,5-DMA",
+    "common": false
+  },
+  {
+    "name": "ALEPH",
+    "hover": "Alfa-metyl-4-metylotio-2,5-dimetoksyfenetyloamina (ALEPH-1, DOT), psychodeliczna amfetamina.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "ALEPH-2",
+    "hover": "Psychodeliczna amfetamina z serii ALEPH.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "ALEPH-7",
+    "hover": "Psychodeliczna amfetamina z serii ALEPH.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DOB",
+    "hover": "2,5-Dimetoksy-4-bromoamfetamina, silny i długo działający psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": "/wiki/DOB",
+    "common": false
+  },
+  {
+    "name": "DOC",
+    "hover": "2,5-Dimetoksy-4-chloroamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": "/wiki/DOC",
+    "common": false
+  },
+  {
+    "name": "DOET",
+    "hover": "2,5-Dimetoksy-4-etyloamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DOF",
+    "hover": "2,5-Dimetoksy-4-fluoroamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DOI",
+    "hover": "2,5-Dimetoksy-4-jodoamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": "/wiki/DOI",
+    "common": false
+  },
+  {
+    "name": "DOIP",
+    "hover": "2,5-Dimetoksy-4-izopropyloamfetamina (DOiPr), psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DOM",
+    "hover": "2,5-Dimetoksy-4-metyloamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": "/wiki/DOM",
+    "common": false
+  },
+  {
+    "name": "DOPR",
+    "hover": "2,5-Dimetoksy-4-propyloamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "GANESHA",
+    "hover": "Psychodeliczna amfetamina z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "MEM",
+    "hover": "2,5-Dimetoksy-4-etoksy-amfetamina, psychodeliczna amfetamina z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "TMA-2",
+    "hover": "2,4,5-Trimetoksyamfetamina, psychodelik z rodziny DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "DOx",
+    "url": "/wiki/TMA-2",
+    "common": false
+  },
+  {
+    "name": "Bromo-DragonFLY",
+    "hover": "Silny i bardzo długo działający psychodelik, pochodna DOB.",
+    "group": "Psychodeliki",
+    "subgroup": "Pochodne DOx",
+    "url": "/wiki/Bromo-DragonFLY",
+    "common": false
+  },
+  {
+    "name": "DOB-FLY",
+    "hover": "Pochodna DOB, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Pochodne DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "ZDCM-04",
+    "hover": "Psychodeliczna substancja, pochodna DOx.",
+    "group": "Psychodeliki",
+    "subgroup": "Pochodne DOx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "25B-NBOH",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOH, pochodna 2C-B.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25B-NBOH",
+    "common": false
+  },
+  {
+    "name": "25B-NBOMe",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOMe, pochodna 2C-B.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25B-NBOMe",
+    "common": false
+  },
+  {
+    "name": "25C-NBOH",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOH, pochodna 2C-C.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25C-NBOH",
+    "common": false
+  },
+  {
+    "name": "25C-NBOMe",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOMe, pochodna 2C-C.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25C-NBOMe",
+    "common": false
+  },
+  {
+    "name": "25D-NBOMe",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOMe, pochodna 2C-D.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25D-NBOMe",
+    "common": false
+  },
+  {
+    "name": "25E-NBOH",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOH, pochodna 2C-E.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25E-NBOH",
+    "common": false
+  },
+  {
+    "name": "25H-NBOMe",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOMe, pochodna 2C-H.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "25I-NBOH",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOH, pochodna 2C-I.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25I-NBOH",
+    "common": false
+  },
+  {
+    "name": "25I-NBOMe",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOMe (2C-I-NBOMe), pochodna 2C-I.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25I-NBOMe",
+    "common": false
+  },
+  {
+    "name": "25N-NBOMe",
+    "hover": "Psychodeliczna fenetyloamina z grupy NBOMe.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": "/wiki/25N-NBOMe",
+    "common": false
+  },
+  {
+    "name": "DMBMPP",
+    "hover": "Substancja psychoaktywna, N-benzylowa fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "N-Benzylofenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "βk-2C-B",
+    "hover": "Beta-ketonowa pochodna 2C-B, psychodelik i empatogen.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": "/wiki/%CE%92k-2C-B",
+    "common": false
+  },
+  {
+    "name": "βOH-2C-B",
+    "hover": "Beta-hydroksylowa pochodna 2C-B (BOHB), psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2,N,N-TMT",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5,N,N-TMT",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "7,N,N-TMT",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2C-B-FLY",
+    "hover": "Psychodeliczna fenetyloamina, pochodna 2C-B.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": "/wiki/2C-B-FLY",
+    "common": false
+  },
+  {
+    "name": "2C-D-5-EtO",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4C-D",
+    "hover": "Psychodeliczna fenetyloamina (ARIADNE).",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "BOD",
+    "hover": "Beta-metoksy-2C-D, psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Bromo-DragonFLY",
+    "hover": "Silny i bardzo długo działający psychodelik, pochodna DOB.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": "/wiki/Bromo-DragonFLY",
+    "common": false
+  },
+  {
+    "name": "HOT-7",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Jimskalina",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "TCB-2",
+    "hover": "Psychodeliczna fenetyloamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "TMA",
+    "hover": "Trimetoksyamfetamina (TMA-1), psychodeliczna amfetamina.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "TMA-2",
+    "hover": "2,4,5-Trimetoksyamfetamina, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": "/wiki/TMA-2",
+    "common": false
+  },
+  {
+    "name": "TMA-6",
+    "hover": "2,4,6-Trimetoksyamfetamina, psychodelik.",
+    "group": "Psychodeliki",
+    "subgroup": "Różne fenetyloaminy",
+    "url": "/wiki/TMA-6",
+    "common": false
+  },
+  {
+    "name": "5-MeO-DiBF",
+    "hover": "Psychodeliczna substancja, analog 5-MeO-DMT.",
+    "group": "Psychodeliki",
+    "subgroup": "Inne",
+    "url": "/wiki/5-MeO-DiBF",
+    "common": false
+  },
+  {
+    "name": "Efawirenz",
+    "hover": "Lek przeciwretrowirusowy, który może wywoływać efekty psychoaktywne.",
+    "group": "Psychodeliki",
+    "subgroup": "Inne",
+    "url": "/wiki/Efavirenz",
+    "common": false
+  },
+  {
+    "name": "Glaucyna",
+    "hover": "Alkaloid o działaniu przeciwkaszlowym, mogący wywoływać efekty psychoaktywne.",
+    "group": "Psychodeliki",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Lorkaseryna",
+    "hover": "Lek stosowany w leczeniu otyłości, agonista receptora 5-HT2C, potencjalnie psychoaktywny.",
+    "group": "Psychodeliki",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Mirtazapina",
+    "hover": "Atypowy lek przeciwdepresyjny (Remeron), który w niektórych dawkach może wywoływać efekty psychoaktywne.",
+    "group": "Psychodeliki",
+    "subgroup": "Inne",
+    "url": "/wiki/Mirtazapine",
+    "common": false
+  },
+  {
+    "name": "Argyreia nervosa",
+    "hover": "Powój hawajski (Hawaiian Baby Woodrose), roślina zawierająca LSA.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Argyreia_nervosa",
+    "common": false
+  },
+  {
+    "name": "Acacia confusa",
+    "hover": "Drzewo akacjowe, którego kora korzeni zawiera DMT.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/DMT#Acacia_confusa_root_bark",
+    "common": false
+  },
+  {
+    "name": "Amanita muscaria",
+    "hover": "Muchomor czerwony, grzyb zawierający muscymol i kwas ibotenowy.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Amanita_muscaria",
+    "common": false
+  },
+  {
+    "name": "Ayahuasca",
+    "hover": "Psychoaktywny wywar tradycyjnie używany w Amazonii.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Ayahuasca",
+    "common": true
+  },
+  {
+    "name": "Banisteriopsis caapi",
+    "hover": "Liana będąca często głównym składnikiem Ayahuaski, zawiera inhibitory MAO.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Banisteriopsis_caapi",
+    "common": false
+  },
+  {
+    "name": "Lotos błękitny",
+    "hover": "Roślina o łagodnych właściwościach psychoaktywnych.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Talk:Blue_Lotus",
+    "common": false
+  },
+  {
+    "name": "Kannabis",
+    "hover": "Roślina psychoaktywna zawierająca THC i inne kannabinoidy.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Cannabis",
+    "common": true
+  },
+  {
+    "name": "Changa",
+    "hover": "Mieszanka ziołowa nasączona DMT i inhibitorem MAO, przeznaczona do palenia.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Changa",
+    "common": false
+  },
+  {
+    "name": "Datura",
+    "hover": "Roślina z rodzaju bieluń, zawierająca silne deliriantne alkaloidy tropanowe.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Datura",
+    "common": false
+  },
+  {
+    "name": "Iboga",
+    "hover": "Krzew pochodzący z Afryki, zawierający ibogainę.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Iboga",
+    "common": false
+  },
+  {
+    "name": "Ipomoea tricolor",
+    "hover": "Powój trójbarwny (Morning Glory), roślina, której nasiona zawierają LSA.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Ipomoea_tricolor",
+    "common": false
+  },
+  {
+    "name": "Mimosa hostilis",
+    "hover": "Roślina, której kora korzeni jest bogatym źródłem DMT.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/DMT#Mimosa_hostilis_root_bark",
+    "common": false
+  },
+  {
+    "name": "Pejotl",
+    "hover": "Kaktus zawierający meskalinę, tradycyjnie używany w celach rytualnych.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Peyote",
+    "common": false
+  },
+  {
+    "name": "Grzyby psylocybinowe",
+    "hover": "Grzyby zawierające psychodeliczne związki psylocybinę i psylocynę.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Psilocybin_mushrooms",
+    "common": true
+  },
+  {
+    "name": "Salvia divinorum",
+    "hover": "Szałwia wieszcza, roślina zawierająca silny dysocjant - salwinorynę A.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Salvia_divinorum",
+    "common": false
+  },
+  {
+    "name": "San Pedro",
+    "hover": "Kaktus zawierający meskalinę.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/San_Pedro",
+    "common": false
+  },
+  {
+    "name": "Peganum harmala",
+    "hover": "Ruta stepowa (Syrian rue), roślina zawierająca inhibitory MAO (harminę, harmalinę).",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Syrian_rue",
+    "common": false
+  },
+  {
+    "name": "Yopo",
+    "hover": "Tradycyjna tabaka przygotowywana z nasion drzewa Anadenanthera peregrina, zawierająca DMT i bufoteninę.",
+    "group": "Enteogeny",
+    "subgroup": "Enteogeny",
+    "url": "/wiki/Yopo",
+    "common": false
+  },
+  {
+    "name": "Harmalina",
+    "hover": "Alkaloid beta-karbolinowy, inhibitor MAO, występuje m.in. w Peganum harmala.",
+    "group": "Enteogeny",
+    "subgroup": "β-Karboliny",
+    "url": "/wiki/Harmaline",
+    "common": false
+  },
+  {
+    "name": "Harmina",
+    "hover": "Alkaloid beta-karbolinowy, inhibitor MAO, występuje m.in. w Peganum harmala.",
+    "group": "Enteogeny",
+    "subgroup": "β-Karboliny",
+    "url": "/wiki/Harmine",
+    "common": false
+  },
+  {
+    "name": "Tetrahydroharmina",
+    "hover": "Alkaloid beta-karbolinowy, inhibitor MAO, występuje m.in. w Banisteriopsis caapi.",
+    "group": "Enteogeny",
+    "subgroup": "β-Karboliny",
+    "url": "/wiki/Tetrahydroharmine",
+    "common": false
+  },
+  {
+    "name": "2-Bromodezchloroketamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (2-BDCK).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2-Fluorodezchloroketamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (2-FDCK), analog ketaminy.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/2-Fluorodeschloroketamine",
+    "common": false
+  },
+  {
+    "name": "3,4-MD-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2'-Oxo-PCE",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (O-PCE), analog etycyklidyny.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/2%27-Oxo-PCE",
+    "common": false
+  },
+  {
+    "name": "2'-Oxo-PCM",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (Dezchloroketamina, DCK), analog ketaminy.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/2%27-Oxo-PCM",
+    "common": false
+  },
+  {
+    "name": "3-Cl-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/3-Cl-PCP",
+    "common": false
+  },
+  {
+    "name": "3-F-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (3-Fluoro-PCP), analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-HO-PCE",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog etycyklidyny.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/3-HO-PCE",
+    "common": false
+  },
+  {
+    "name": "3-HO-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/3-HO-PCP",
+    "common": false
+  },
+  {
+    "name": "3-Me-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-Me-PCPy",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-MeO-PCE",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog etycyklidyny.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/3-MeO-PCE",
+    "common": false
+  },
+  {
+    "name": "3-MeO-PCMo",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/3-MeO-PCMo",
+    "common": false
+  },
+  {
+    "name": "3-MeO-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/3-MeO-PCP",
+    "common": false
+  },
+  {
+    "name": "4-MeO-PCP",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/4-MeO-PCP",
+    "common": false
+  },
+  {
+    "name": "Deoksymetoksetamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (DMXE, 3D-MXE).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Etycyklidyna",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (PCE).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/Eticyclidine",
+    "common": false
+  },
+  {
+    "name": "Fluoreksetamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (FXE).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Hydroksetamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (HXE).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/Hydroxetamine",
+    "common": false
+  },
+  {
+    "name": "Ketamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, używany w medycynie jako anestetyk.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/Ketamine",
+    "common": true
+  },
+  {
+    "name": "R-Ketamina",
+    "hover": "Enancjomer ketaminy (Arketamina).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/R-Ketamine",
+    "common": false
+  },
+  {
+    "name": "S-Ketamina",
+    "hover": "Enancjomer ketaminy (Esketamina).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/S-Ketamine",
+    "common": false
+  },
+  {
+    "name": "Metoksetamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (MXE), analog ketaminy.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/Methoxetamine",
+    "common": false
+  },
+  {
+    "name": "Metoksyizopropamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (MXiPr).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/Methoxisopropamine",
+    "common": false
+  },
+  {
+    "name": "Metokspropamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (MXPr).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fencyklidyna",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin (PCP).",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": "/wiki/Phencyclidine",
+    "common": true
+  },
+  {
+    "name": "Tenocyklidyna",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, analog PCP.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Tiletamina",
+    "hover": "Dysocjant z grupy arylocykloheksyloamin, stosowany w weterynarii.",
+    "group": "Dysocjanty",
+    "subgroup": "Arylocykloheksyloaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dekstrometorfan",
+    "hover": "Dysocjant z grupy morfinanów (DXM), składnik wielu leków przeciwkaszlowych.",
+    "group": "Dysocjanty",
+    "subgroup": "Morfinany",
+    "url": "/wiki/Dextromethorphan",
+    "common": true
+  },
+  {
+    "name": "Dekstrorfan",
+    "hover": "Aktywny metabolit dekstrometorfanu (DXO).",
+    "group": "Dysocjanty",
+    "subgroup": "Morfinany",
+    "url": "/wiki/Dextrorphan",
+    "common": false
+  },
+  {
+    "name": "Difenidyna",
+    "hover": "Dysocjant z grupy diaryloetyloamin.",
+    "group": "Dysocjanty",
+    "subgroup": "Diaryloetyloaminy",
+    "url": "/wiki/Diphenidine",
+    "common": false
+  },
+  {
+    "name": "Efenidyna",
+    "hover": "Dysocjant z grupy diaryloetyloamin.",
+    "group": "Dysocjanty",
+    "subgroup": "Diaryloetyloaminy",
+    "url": "/wiki/Ephenidine",
+    "common": false
+  },
+  {
+    "name": "Metoksfenidyna",
+    "hover": "Dysocjant z grupy diaryloetyloamin (MXP).",
+    "group": "Dysocjanty",
+    "subgroup": "Diaryloetyloaminy",
+    "url": "/wiki/Methoxphenidine",
+    "common": false
+  },
+  {
+    "name": "Amantadyna",
+    "hover": "Lek przeciwwirusowy i stosowany w chorobie Parkinsona, posiadający właściwości dysocjacyjne.",
+    "group": "Dysocjanty",
+    "subgroup": "Adamantany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Memantyna",
+    "hover": "Lek stosowany w leczeniu choroby Alzheimera, antagonista NMDA, o działaniu dysocjacyjnym i nootropowym.",
+    "group": "Dysocjanty",
+    "subgroup": "Adamantany",
+    "url": "/wiki/Memantine",
+    "common": false
+  },
+  {
+    "name": "Rimantadyna",
+    "hover": "Lek przeciwwirusowy (Flumadine), o potencjalnym działaniu psychoaktywnym.",
+    "group": "Dysocjanty",
+    "subgroup": "Adamantany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Deksoksadrol",
+    "hover": "Dysocjant, antagonista NMDA.",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dizocylpina",
+    "hover": "Dysocjant, silny antagonista NMDA (MK-801).",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Etoksadrol",
+    "hover": "Dysocjant, antagonista NMDA.",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "HA-966",
+    "hover": "Substancja o działaniu dysocjacyjnym i nootropowym.",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Ibogaina",
+    "hover": "Psychoaktywny alkaloid z rośliny Iboga, o działaniu psychodelicznym i dysocjacyjnym.",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Ibogaine",
+    "common": false
+  },
+  {
+    "name": "Podtlenek azotu",
+    "hover": "Gaz dysocjacyjny (N₂O), znany jako gaz rozweselający.",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Nitrous_oxide",
+    "common": true
+  },
+  {
+    "name": "Ksenon",
+    "hover": "Gaz szlachetny o właściwościach dysocjacyjnych i anestetycznych.",
+    "group": "Dysocjanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Xenon",
+    "common": false
+  },
+  {
+    "name": "Atropina",
+    "hover": "Alkaloid tropanowy, deliriant, występuje w roślinach z rodziny psiankowatych.",
+    "group": "Delirianty",
+    "subgroup": "Alkaloidy tropanowe",
+    "url": "/wiki/Datura#Chemistry",
+    "common": false
+  },
+  {
+    "name": "Hioscyjamina",
+    "hover": "Alkaloid tropanowy, deliriant, występuje w roślinach z rodziny psiankowatych.",
+    "group": "Delirianty",
+    "subgroup": "Alkaloidy tropanowe",
+    "url": "/wiki/Datura#Chemistry",
+    "common": false
+  },
+  {
+    "name": "Skopolamina",
+    "hover": "Alkaloid tropanowy (Hioscyna), deliriant, występuje w roślinach z rodziny psiankowatych.",
+    "group": "Delirianty",
+    "subgroup": "Alkaloidy tropanowe",
+    "url": "/wiki/Datura#Chemistry",
+    "common": false
+  },
+  {
+    "name": "Difenhydramina",
+    "hover": "Lek przeciwhistaminowy (Benadryl, DPH), w wyższych dawkach działający jako deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Leki przeciwhistaminowe",
+    "url": "/wiki/Diphenhydramine",
+    "common": false
+  },
+  {
+    "name": "Doksyloamina",
+    "hover": "Lek przeciwhistaminowy, w wyższych dawkach potencjalnie działający jako deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Leki przeciwhistaminowe",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Orfenadryna",
+    "hover": "Lek o działaniu antycholinergicznym i przeciwhistaminowym, potencjalnie deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Leki przeciwhistaminowe",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Prometazyna",
+    "hover": "Lek przeciwhistaminowy i uspokajający, w wyższych dawkach potencjalnie deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Leki przeciwhistaminowe",
+    "url": "/wiki/Promethazine",
+    "common": false
+  },
+  {
+    "name": "Amantadyna",
+    "hover": "Lek przeciwwirusowy i stosowany w chorobie Parkinsona, w wyższych dawkach może działać jako deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Benzydamina",
+    "hover": "Niesteroidowy lek przeciwzapalny, w wyższych dawkach wykazujący działanie deliriantne i stymulujące.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": "/wiki/Benzydamine",
+    "common": false
+  },
+  {
+    "name": "Biperyden",
+    "hover": "Lek antycholinergiczny (Akineton), stosowany w chorobie Parkinsona, potencjalnie deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Cyproheptadyna",
+    "hover": "Lek przeciwhistaminowy i antycholinergiczny, potencjalnie deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Mirtazapina",
+    "hover": "Atypowy lek przeciwdepresyjny (Remeron), w niektórych dawkach może działać deliriantnie.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": "/wiki/Mirtazapine",
+    "common": false
+  },
+  {
+    "name": "Mirystycyna",
+    "hover": "Substancja psychoaktywna występująca w gałce muszkatołowej, działająca jako deliriant.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": "/wiki/Myristicin",
+    "common": false
+  },
+  {
+    "name": "Elemicyna",
+    "hover": "Substancja psychoaktywna występująca w gałce muszkatołowej.",
+    "group": "Delirianty",
+    "subgroup": "Inne",
+    "url": "/wiki/Elemicin",
+    "common": false
+  },
+  {
+    "name": "CBD",
+    "hover": "Kannabidiol, niepsychoaktywny fitokannabinoid o potencjalnych właściwościach terapeutycznych.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/CBD",
+    "common": true
+  },
+  {
+    "name": "CBDA",
+    "hover": "Kwas kannabidiolowy, prekursor CBD.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Cannabis#Phytocannabinoids",
+    "common": false
+  },
+  {
+    "name": "CBDH",
+    "hover": "Kannabidiheksol, fitokannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Cannabis#Phytocannabinoids",
+    "common": false
+  },
+  {
+    "name": "CBDP",
+    "hover": "Kannabidiforol, fitokannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Cannabis#Phytocannabinoids",
+    "common": false
+  },
+  {
+    "name": "THCA",
+    "hover": "Kwas tetrahydrokannabinolowy, niepsychoaktywny prekursor THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Tetrahydrocannabinolic_acid",
+    "common": false
+  },
+  {
+    "name": "delta-8-THC",
+    "hover": "Δ-8-Tetrahydrokannabinol, izomer THC o łagodniejszym działaniu psychoaktywnym.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/%CE%94-8-Tetrahydrocannabinol",
+    "common": false
+  },
+  {
+    "name": "THC",
+    "hover": "Tetrahydrokannabinol (delta-9-THC), główny psychoaktywny składnik konopi.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Tetrahydrocannabinol",
+    "common": true
+  },
+  {
+    "name": "delta-10-THC",
+    "hover": "Δ-10-Tetrahydrokannabinol, izomer THC o działaniu psychoaktywnym.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/%CE%94-10-Tetrahydrocannabinol",
+    "common": false
+  },
+  {
+    "name": "delta-11-THC",
+    "hover": "Δ-11-Tetrahydrokannabinol, izomer THC, metabolit THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/%CE%94-11-Tetrahydrocannabinol",
+    "common": false
+  },
+  {
+    "name": "THCB",
+    "hover": "Tetrahydrokannabutol, fitokannabinoid, homolog THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Tetrahydrocannabutol",
+    "common": false
+  },
+  {
+    "name": "THCH",
+    "hover": "Tetrahydrokannaheksol, fitokannabinoid, homolog THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Tetrahydrocannabihexol",
+    "common": false
+  },
+  {
+    "name": "THCP",
+    "hover": "Tetrahydrokannabiforol, fitokannabinoid, homolog THC, potencjalnie silniejszy od THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Tetrahydrocannabiphorol",
+    "common": false
+  },
+  {
+    "name": "HHC",
+    "hover": "Heksahydrokannabinol, półsyntetyczny kannabinoid, uwodorniona forma THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/Hexahydrocannabinol",
+    "common": false
+  },
+  {
+    "name": "HHCH",
+    "hover": "Heksahydrokannaheksol, półsyntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "HHCP-O-octan",
+    "hover": "Octan heksahydrokannabiforolu, półsyntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "THC-O-octan",
+    "hover": "Octan THC, półsyntetyczny kannabinoid, prolek THC.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": "/wiki/THC-O-acetate",
+    "common": false
+  },
+  {
+    "name": "THCP-O-octan",
+    "hover": "Octan tetrahydrokannabiforolu, półsyntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Fitokannabinoidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4F-ADB",
+    "hover": "Syntetyczny kannabinoid (4F-MDMB-BINACA, 4F-MDMB-BUTINACA).",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5F-AKB48",
+    "hover": "Syntetyczny kannabinoid (5F-APINACA).",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/5F-AKB48",
+    "common": false
+  },
+  {
+    "name": "5F-PB-22",
+    "hover": "Syntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/5F-PB-22",
+    "common": false
+  },
+  {
+    "name": "AB-FUBINACA",
+    "hover": "Syntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/AB-FUBINACA",
+    "common": false
+  },
+  {
+    "name": "APICA",
+    "hover": "Syntetyczny kannabinoid (2NE1).",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/APICA",
+    "common": false
+  },
+  {
+    "name": "EG-018",
+    "hover": "Syntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "JWH-018",
+    "hover": "Syntetyczny kannabinoid, jeden z pierwszych popularnych składników 'dopalaczy'.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/JWH-018",
+    "common": false
+  },
+  {
+    "name": "JWH-073",
+    "hover": "Syntetyczny kannabinoid z serii JWH.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/JWH-073",
+    "common": false
+  },
+  {
+    "name": "STS-135",
+    "hover": "Syntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/STS-135",
+    "common": false
+  },
+  {
+    "name": "THJ-018",
+    "hover": "Syntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/THJ-018",
+    "common": false
+  },
+  {
+    "name": "THJ-2201",
+    "hover": "Syntetyczny kannabinoid.",
+    "group": "Kannabinoidy",
+    "subgroup": "Syntetyczne kannabinoidy",
+    "url": "/wiki/THJ-2201",
+    "common": false
+  },
+  {
+    "name": "Alkohol",
+    "hover": "Etanol, powszechnie spożywany depresant.",
+    "group": "Depresanty",
+    "subgroup": "Alkohole",
+    "url": "/wiki/Alcohol",
+    "common": true
+  },
+  {
+    "name": "2-Metylo-2-butanol",
+    "hover": "Alkohol trzeciorzędowy (2M2B) o działaniu uspokajającym i nasennym.",
+    "group": "Depresanty",
+    "subgroup": "Alkohole",
+    "url": "/wiki/2-Methyl-2-butanol",
+    "common": false
+  },
+  {
+    "name": "3-Hydroksyfenazepam",
+    "hover": "Benzodiazepina o działaniu przeciwlękowym i uspokajającym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Alprazolam",
+    "hover": "Benzodiazepina (Xanax) stosowana w leczeniu lęku i zaburzeń panicznych.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Alprazolam",
+    "common": true
+  },
+  {
+    "name": "Bromazepam",
+    "hover": "Benzodiazepina o działaniu przeciwlękowym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Bromazepam",
+    "common": false
+  },
+  {
+    "name": "Bromazolam",
+    "hover": "Benzodiazepina o działaniu przeciwlękowym i uspokajającym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Chlordiazepoksyd",
+    "hover": "Benzodiazepina (Librium) o działaniu przeciwlękowym i uspokajającym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Cinazepam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Cinolazepam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Klobazam",
+    "hover": "Benzodiazepina stosowana w leczeniu padaczki i lęku.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Klonazepam",
+    "hover": "Benzodiazepina (Klonopin) o działaniu przeciwdrgawkowym, przeciwlękowym i uspokajającym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Clonazepam",
+    "common": true
+  },
+  {
+    "name": "Klonazolam",
+    "hover": "Benzodiazepina o silnym działaniu.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Clonazolam",
+    "common": false
+  },
+  {
+    "name": "Klorazepan",
+    "hover": "Benzodiazepina o działaniu przeciwlękowym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Desmetyloflunitrazepam",
+    "hover": "Metabolit flunitrazepamu, benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Diazepam",
+    "hover": "Benzodiazepina (Valium) o działaniu przeciwlękowym, uspokajającym, przeciwdrgawkowym i miorelaksacyjnym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Diazepam",
+    "common": true
+  },
+  {
+    "name": "Diclazepam",
+    "hover": "Benzodiazepina, analog diazepamu.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Diclazepam",
+    "common": false
+  },
+  {
+    "name": "Difludiazepam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Estazolam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Flualprazolam",
+    "hover": "Benzodiazepina, fluorowany analog alprazolamu.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Flualprazolam",
+    "common": false
+  },
+  {
+    "name": "Flubromazepam",
+    "hover": "Benzodiazepina o długim czasie działania.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Flubromazepam",
+    "common": false
+  },
+  {
+    "name": "Flubromazolam",
+    "hover": "Benzodiazepina o silnym działaniu.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Flubromazolam",
+    "common": false
+  },
+  {
+    "name": "Flunitrazepam",
+    "hover": "Benzodiazepina (Rohypnol) o silnym działaniu nasennym i amnestycznym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Flunitrazepam",
+    "common": false
+  },
+  {
+    "name": "Flunitrazolam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Flunitrazolam",
+    "common": false
+  },
+  {
+    "name": "Flurazepam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Gidazepam",
+    "hover": "Benzodiazepina o działaniu przeciwlękowym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Loprazolam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Lorazepam",
+    "hover": "Benzodiazepina (Ativan) o działaniu przeciwlękowym, uspokajającym i przeciwdrgawkowym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Lorazepam",
+    "common": true
+  },
+  {
+    "name": "Lormetazepam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Meklonazepam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Midazolam",
+    "hover": "Benzodiazepina (Dormicum) o krótkim czasie działania, stosowana jako środek uspokajający i nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Midazolam",
+    "common": false
+  },
+  {
+    "name": "Nifoksypam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Nifoxipam",
+    "common": false
+  },
+  {
+    "name": "Nitrazolam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Nordazepam",
+    "hover": "Benzodiazepina, aktywny metabolit wielu innych benzodiazepin.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Norflurazepam",
+    "hover": "Benzodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Oksazepam",
+    "hover": "Benzodiazepina o działaniu przeciwlękowym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fenazepam",
+    "hover": "Benzodiazepina o silnym i długotrwałym działaniu.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Pirazolam",
+    "hover": "Benzodiazepina o działaniu głównie przeciwlękowym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Pyrazolam",
+    "common": false
+  },
+  {
+    "name": "Kwazepam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Ro5-4864",
+    "hover": "Benzodiazepina działająca na obwodowe receptory benzodiazepinowe.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Temazepam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": "/wiki/Temazepam",
+    "common": false
+  },
+  {
+    "name": "Tetrazepam",
+    "hover": "Benzodiazepina o działaniu miorelaksacyjnym.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Triazolam",
+    "hover": "Benzodiazepina (Halcion) o krótkim działaniu, stosowana jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Benzodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Brotizolam",
+    "hover": "Tienodiazepina o działaniu nasennym.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dezchloroklotizolam",
+    "hover": "Tienodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dezchloroetizolam",
+    "hover": "Tienodiazepina, analog etizolamu.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": "/wiki/Deschloroetizolam",
+    "common": false
+  },
+  {
+    "name": "Etizolam",
+    "hover": "Tienodiazepina o działaniu przeciwlękowym, uspokajającym i nasennym.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": "/wiki/Etizolam",
+    "common": false
+  },
+  {
+    "name": "Flubrotizolam",
+    "hover": "Tienodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fluclotizolam",
+    "hover": "Tienodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fluetizolam",
+    "hover": "Tienodiazepina.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Metizolam",
+    "hover": "Tienodiazepina, analog etizolamu.",
+    "group": "Depresanty",
+    "subgroup": "Tienodiazepiny",
+    "url": "/wiki/Metizolam",
+    "common": false
+  },
+  {
+    "name": "Amobarbital",
+    "hover": "Barbituran o działaniu uspokajającym i nasennym.",
+    "group": "Depresanty",
+    "subgroup": "Barbiturany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Pentobarbital",
+    "hover": "Barbituran o działaniu uspokajającym, nasennym i przeciwdrgawkowym.",
+    "group": "Depresanty",
+    "subgroup": "Barbiturany",
+    "url": "/wiki/Pentobarbital",
+    "common": false
+  },
+  {
+    "name": "Fenobarbital",
+    "hover": "Barbituran stosowany jako lek przeciwdrgawkowy.",
+    "group": "Depresanty",
+    "subgroup": "Barbiturany",
+    "url": "/wiki/Phenobarbital",
+    "common": false
+  },
+  {
+    "name": "Sekobarbital",
+    "hover": "Barbituran o działaniu uspokajającym i nasennym.",
+    "group": "Depresanty",
+    "subgroup": "Barbiturany",
+    "url": "/wiki/Secobarbital",
+    "common": false
+  },
+  {
+    "name": "Tiopental sodu",
+    "hover": "Barbituran stosowany jako środek znieczulający.",
+    "group": "Depresanty",
+    "subgroup": "Barbiturany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Gaboksadol",
+    "hover": "Agonista receptora GABAA-α1, badany jako lek nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": "/wiki/Gaboxadol",
+    "common": false
+  },
+  {
+    "name": "Kwas ibotenowy",
+    "hover": "Neurotoksyna i agonista NMDA/metabotropowych receptorów glutaminianu, występuje w Amanita muscaria.",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": "/wiki/Ibotenic_acid",
+    "common": false
+  },
+  {
+    "name": "Muscymol",
+    "hover": "Główny psychoaktywny składnik Amanita muscaria, agonista GABAA.",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": "/wiki/Muscimol",
+    "common": false
+  },
+  {
+    "name": "Pagoklon",
+    "hover": "Niespokrewniony z benzodiazepinami lek przeciwlękowy, selektywny agonista GABAA-α1.",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Kwazepam",
+    "hover": "Benzodiazepina stosowana jako lek nasenny, selektywny agonista GABAA-α1.",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Zaleplon",
+    "hover": "Niespokrewniony z benzodiazepinami lek nasenny ('Z-drug').",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Zolpidem",
+    "hover": "Niespokrewniony z benzodiazepinami lek nasenny (Ambien, 'Z-drug').",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": "/wiki/Zolpidem",
+    "common": true
+  },
+  {
+    "name": "Zopiklon",
+    "hover": "Niespokrewniony z benzodiazepinami lek nasenny ('Z-drug').",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": "/wiki/Zopiclone",
+    "common": false
+  },
+  {
+    "name": "Eszopiklon",
+    "hover": "Aktywny enancjomer zopiklonu (Lunesta).",
+    "group": "Depresanty",
+    "subgroup": "Agoniści GABAA-α1",
+    "url": "/wiki/Eszopiclone",
+    "common": false
+  },
+  {
+    "name": "1,4-Butanodiol",
+    "hover": "Prekursor GHB (1,4-B), depresant.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/1,4-Butanediol",
+    "common": false
+  },
+  {
+    "name": "Baklofen",
+    "hover": "Lek miorelaksacyjny, agonista receptora GABAB.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/Baclofen",
+    "common": false
+  },
+  {
+    "name": "Bretazenil",
+    "hover": "Częściowy agonista receptora benzodiazepinowego.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "KarysoprodoL",
+    "hover": "Lek miorelaksacyjny (Soma), metabolizowany do meprobamatu.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/Carisoprodol",
+    "common": false
+  },
+  {
+    "name": "Wodzian chloralu",
+    "hover": "Starszy lek uspokajający i nasenny.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Emylkamat",
+    "hover": "Lek przeciwlękowy i uspokajający.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "F-Fenibut",
+    "hover": "Fluorowany analog fenibutu, agonista GABAB.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/F-Phenibut",
+    "common": false
+  },
+  {
+    "name": "Flumazenil",
+    "hover": "Antagonista receptora benzodiazepinowego, stosowany jako antidotum.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "GABA",
+    "hover": "Kwas gamma-aminomasłowy, główny neuroprzekaźnik hamujący w OUN.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/GABA",
+    "common": false
+  },
+  {
+    "name": "GBL",
+    "hover": "Gamma-butyrolakton, prolek GHB, depresant.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/GBL",
+    "common": true
+  },
+  {
+    "name": "GHB",
+    "hover": "Kwas gamma-hydroksymasłowy (Oksyban sodu), depresant OUN.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/GHB",
+    "common": true
+  },
+  {
+    "name": "GHV",
+    "hover": "Kwas gamma-hydroksywalerianowy, analog GHB.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Kava",
+    "hover": "Roślina z wysp Pacyfiku, której korzenie używane są do przygotowania napoju o działaniu uspokajającym.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/Kava",
+    "common": false
+  },
+  {
+    "name": "Mebrokwalon",
+    "hover": "Analog metakwalonu.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Meprobamat",
+    "hover": "Lek przeciwlękowy i uspokajający.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Metakwalon",
+    "hover": "Lek uspokajający i nasenny (Quaalude).",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/Methaqualone",
+    "common": false
+  },
+  {
+    "name": "Nitrometakwalon",
+    "hover": "Analog metakwalonu.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/Nitromethaqualone",
+    "common": false
+  },
+  {
+    "name": "Fenibut",
+    "hover": "Depresant OUN, agonista GABAB i bloker kanałów wapniowych.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": "/wiki/Phenibut",
+    "common": false
+  },
+  {
+    "name": "Fenprobamat",
+    "hover": "Lek miorelaksacyjny i uspokajający.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Bromek potasu",
+    "hover": "Sól o działaniu uspokajającym i przeciwdrgawkowym.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Propofol",
+    "hover": "Środek znieczulający dożylny.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "SL-164",
+    "hover": "Substancja psychoaktywna.",
+    "group": "Depresanty",
+    "subgroup": "Inne GABAergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "F-Fenibut",
+    "hover": "Fluorowany analog fenibutu, gabapentynoid.",
+    "group": "Depresanty",
+    "subgroup": "Gabapentynoidy",
+    "url": "/wiki/F-Phenibut",
+    "common": false
+  },
+  {
+    "name": "Gabapentyna",
+    "hover": "Lek przeciwdrgawkowy i przeciwbólowy, gabapentynoid.",
+    "group": "Depresanty",
+    "subgroup": "Gabapentynoidy",
+    "url": "/wiki/Gabapentin",
+    "common": false
+  },
+  {
+    "name": "Mirogabalin",
+    "hover": "Gabapentynoid, lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Gabapentynoidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fenibut",
+    "hover": "Depresant OUN, klasyfikowany również jako gabapentynoid.",
+    "group": "Depresanty",
+    "subgroup": "Gabapentynoidy",
+    "url": "/wiki/Phenibut",
+    "common": false
+  },
+  {
+    "name": "Pregabalina",
+    "hover": "Lek przeciwdrgawkowy, przeciwlękowy i przeciwbólowy (Lyrica), gabapentynoid.",
+    "group": "Depresanty",
+    "subgroup": "Gabapentynoidy",
+    "url": "/wiki/Pregabalin",
+    "common": true
+  },
+  {
+    "name": "2-Metylo-AP-237",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Acetylofentanyl",
+    "hover": "Syntetyczny opioid, analog fentanylu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Acetylfentanyl",
+    "common": false
+  },
+  {
+    "name": "AP-237",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "AP-238",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Brorfina",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Buprenorfina",
+    "hover": "Częściowy agonista opioidowy, stosowany w leczeniu uzależnienia od opioidów i bólu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Buprenorphine",
+    "common": false
+  },
+  {
+    "name": "Butyrfentanyl",
+    "hover": "Syntetyczny opioid, analog fentanylu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Karfentanyl",
+    "hover": "Bardzo silny syntetyczny opioid, analog fentanylu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Kodeina",
+    "hover": "Opioidowy lek przeciwbólowy i przeciwkaszlowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Codeine",
+    "common": true
+  },
+  {
+    "name": "Dezomorfina",
+    "hover": "Półsyntetyczny opioid (Krokodil), pochodna morfiny.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Desomorphine",
+    "common": false
+  },
+  {
+    "name": "Dekstromoramid",
+    "hover": "Syntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dekstropropoksyfen",
+    "hover": "Opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Dextropropoxyphene",
+    "common": false
+  },
+  {
+    "name": "Diacetylomorfina",
+    "hover": "Półsyntetyczny opioid (Heroina), pochodna morfiny.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Diacetylmorphine",
+    "common": true
+  },
+  {
+    "name": "Dihydrokodeina",
+    "hover": "Półsyntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Dihydrocodeine",
+    "common": false
+  },
+  {
+    "name": "Etylomorfina",
+    "hover": "Półsyntetyczny opioidowy lek przeciwbólowy i przeciwkaszlowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Ethylmorphine",
+    "common": false
+  },
+  {
+    "name": "Etodeznitazen",
+    "hover": "Syntetyczny opioid (Etazen).",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Etonitazen",
+    "hover": "Bardzo silny syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Etonitazepipen",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Etorfina",
+    "hover": "Bardzo silny półsyntetyczny opioid, stosowany w weterynarii.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fentanyl",
+    "hover": "Bardzo silny syntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Fentanyl",
+    "common": true
+  },
+  {
+    "name": "Fluonitazen",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Furanylofentanyl",
+    "hover": "Syntetyczny opioid, analog fentanylu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Hydrokodon",
+    "hover": "Półsyntetyczny opioidowy lek przeciwbólowy (Vicodin).",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Hydrocodone",
+    "common": true
+  },
+  {
+    "name": "Hydromorfon",
+    "hover": "Półsyntetyczny opioidowy lek przeciwbólowy (Dilaudid).",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Hydromorphone",
+    "common": false
+  },
+  {
+    "name": "Izotonitazen",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Kratom",
+    "hover": "Roślina z Azji Południowo-Wschodniej zawierająca alkaloidy o działaniu opioidopodobnym.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Kratom",
+    "common": false
+  },
+  {
+    "name": "7-Hydroksymitraginina",
+    "hover": "Alkaloid z Kratomu, aktywny metabolit mitragininy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Mitraginina",
+    "hover": "Główny alkaloid Kratomu o działaniu opioidopodobnym.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Lefetamina",
+    "hover": "Substancja o działaniu stymulującym i opioidowym.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Lewometorfan",
+    "hover": "Opioidowy lek przeciwkaszlowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Metadon",
+    "hover": "Syntetyczny opioid stosowany w leczeniu uzależnienia od opioidów i bólu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Methadone",
+    "common": true
+  },
+  {
+    "name": "Metodeznitazen",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Metonitazen",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Morfina",
+    "hover": "Główny alkaloid opium, silny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Morphine",
+    "common": true
+  },
+  {
+    "name": "O-Desmetylotramadol",
+    "hover": "Aktywny metabolit tramadolu (O-DSMT), opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/O-Desmethyltramadol",
+    "common": false
+  },
+  {
+    "name": "Oksykodon",
+    "hover": "Półsyntetyczny opioidowy lek przeciwbólowy (OxyContin).",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Oxycodone",
+    "common": true
+  },
+  {
+    "name": "Oksymorfon",
+    "hover": "Półsyntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Oxymorphone",
+    "common": false
+  },
+  {
+    "name": "Petydyna",
+    "hover": "Syntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Pethidine",
+    "common": false
+  },
+  {
+    "name": "Sufentanyl",
+    "hover": "Bardzo silny syntetyczny opioid, analog fentanylu.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Sufentanil",
+    "common": false
+  },
+  {
+    "name": "Tapentadol",
+    "hover": "Opioidowy lek przeciwbólowy o podwójnym mechanizmie działania.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Tapentadol",
+    "common": false
+  },
+  {
+    "name": "Tebaina",
+    "hover": "Alkaloid opium, prekursor wielu opioidów.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Tianeptyna",
+    "hover": "Atypowy lek przeciwdepresyjny o działaniu opioidowym.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Tianeptine",
+    "common": false
+  },
+  {
+    "name": "Tilidyna",
+    "hover": "Syntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Tramadol",
+    "hover": "Syntetyczny opioidowy lek przeciwbólowy.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/Tramadol",
+    "common": true
+  },
+  {
+    "name": "U-47700",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": "/wiki/U-47700",
+    "common": false
+  },
+  {
+    "name": "U-48800",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "U-49900",
+    "hover": "Syntetyczny opioid.",
+    "group": "Depresanty",
+    "subgroup": "Opioidy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Klonidyna",
+    "hover": "Lek obniżający ciśnienie krwi, agonista receptora α2-adrenergicznego, działający depresyjnie na OUN.",
+    "group": "Depresanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Clonidine",
+    "common": false
+  },
+  {
+    "name": "Deksmedetomidyna",
+    "hover": "Silny agonista receptora α2-adrenergicznego, stosowany jako środek uspokajający.",
+    "group": "Depresanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Difenhydramina",
+    "hover": "Lek przeciwhistaminowy (Benadryl, DPH), działający również jako depresant OUN.",
+    "group": "Depresanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Diphenhydramine",
+    "common": false
+  },
+  {
+    "name": "Guanfacyna",
+    "hover": "Lek stosowany w leczeniu ADHD i nadciśnienia, agonista receptora α2A-adrenergicznego.",
+    "group": "Depresanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Mirtazapina",
+    "hover": "Atypowy lek przeciwdepresyjny (Remeron), działający również jako depresant OUN.",
+    "group": "Depresanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Mirtazapine",
+    "common": false
+  },
+  {
+    "name": "Tizanidyna",
+    "hover": "Lek miorelaksacyjny, agonista receptora α2-adrenergicznego.",
+    "group": "Depresanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Tizanidine",
+    "common": false
+  },
+  {
+    "name": "2-FA",
+    "hover": "2-Fluoroamfetamina, stymulant z grupy amfetamin.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/2-FA",
+    "common": false
+  },
+  {
+    "name": "2-FEA",
+    "hover": "2-Fluoroetamfetamina, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/2-FEA",
+    "common": false
+  },
+  {
+    "name": "2-FMA",
+    "hover": "2-Fluorometamfetamina, stymulant z grupy amfetamin.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/2-FMA",
+    "common": false
+  },
+  {
+    "name": "3-FA",
+    "hover": "3-Fluoroamfetamina, stymulant z grupy amfetamin.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/3-FA",
+    "common": false
+  },
+  {
+    "name": "3-FEA",
+    "hover": "3-Fluoroetamfetamina, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/3-FEA",
+    "common": false
+  },
+  {
+    "name": "3-FMA",
+    "hover": "3-Fluorometamfetamina, stymulant z grupy amfetamin.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/3-FMA",
+    "common": false
+  },
+  {
+    "name": "3-MMA",
+    "hover": "3-Metylometamfetamina (3-MeMA), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4-FA",
+    "hover": "4-Fluoroamfetamina, stymulant i empatogen z grupy amfetamin.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/4-FA",
+    "common": false
+  },
+  {
+    "name": "4-FMA",
+    "hover": "4-Fluorometamfetamina, stymulant z grupy amfetamin.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/4-FMA",
+    "common": false
+  },
+  {
+    "name": "Amfetamina",
+    "hover": "Stymulant OUN (Adderall), stosowany medycznie i rekreacyjnie.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/Amphetamine",
+    "common": true
+  },
+  {
+    "name": "Dekstroamfetamina",
+    "hover": "Prawoskrętny enancjomer amfetaminy (Dexedrine).",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/Dextroamphetamine",
+    "common": true
+  },
+  {
+    "name": "Lewoamfetamina",
+    "hover": "Lewoskrętny enancjomer amfetaminy.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Efedryna",
+    "hover": "Stymulant i lek udrażniający nos.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/Ephedrine",
+    "common": false
+  },
+  {
+    "name": "Fenetyllina",
+    "hover": "Prolek amfetaminy i teofiliny (Captagon).",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/Fenethylline",
+    "common": false
+  },
+  {
+    "name": "Lisdeksamfetamina",
+    "hover": "Prolek dekstroamfetaminy (Vyvanse).",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/Lisdexamfetamine",
+    "common": true
+  },
+  {
+    "name": "Metamfetamina",
+    "hover": "Silny stymulant OUN (Meth).",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": "/wiki/Methamphetamine",
+    "common": true
+  },
+  {
+    "name": "Pseudoefedryna",
+    "hover": "Stymulant i lek udrażniający nos, stereoizomer efedryny.",
+    "group": "Stymulanty",
+    "subgroup": "Amfetaminy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-CPM",
+    "hover": "3-Chlorofenmetrazyna, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Fenmetrazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-FPM",
+    "hover": "3-Fluorofenmetrazyna, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Fenmetrazyny",
+    "url": "/wiki/3-FPM",
+    "common": false
+  },
+  {
+    "name": "4-MPM",
+    "hover": "4-Metylofenmetrazyna, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Fenmetrazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fenmetrazyna",
+    "hover": "Stymulant, dawniej stosowany jako lek anorektyczny.",
+    "group": "Stymulanty",
+    "subgroup": "Fenmetrazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3,4-CTMP",
+    "hover": "3,4-Dichlorometylofenidat (3,4-DCMP), stymulant z grupy fenidatów.",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/3,4-CTMP",
+    "common": false
+  },
+  {
+    "name": "4F-EPH",
+    "hover": "4-Fluoroetylofenidat, stymulant z grupy fenidatów.",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/4F-EPH",
+    "common": false
+  },
+  {
+    "name": "4F-MPH",
+    "hover": "4-Fluorometylofenidat, stymulant z grupy fenidatów.",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/4F-MPH",
+    "common": false
+  },
+  {
+    "name": "Etylonaftidat",
+    "hover": "Stymulant z grupy fenidatów (HDEP-28).",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Etylofenidat",
+    "hover": "Stymulant z grupy fenidatów (EPH).",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/Ethylphenidate",
+    "common": false
+  },
+  {
+    "name": "Izopropylofenidat",
+    "hover": "Stymulant z grupy fenidatów (IPH / IPPH).",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/Isopropylphenidate",
+    "common": false
+  },
+  {
+    "name": "Metylonaftidat",
+    "hover": "Stymulant z grupy fenidatów (HDMP-28).",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/Methylnaphthidate",
+    "common": false
+  },
+  {
+    "name": "Metylofenidat",
+    "hover": "Stymulant (Ritalin) stosowany w leczeniu ADHD i narkolepsji.",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/Methylphenidate",
+    "common": true
+  },
+  {
+    "name": "Deksmetylofenidat",
+    "hover": "Aktywny enancjomer metylofenidatu (Focalin).",
+    "group": "Stymulanty",
+    "subgroup": "Fenidaty",
+    "url": "/wiki/Dexmethylphenidate",
+    "common": false
+  },
+  {
+    "name": "2-MMC",
+    "hover": "2-Metylometkatynon, stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-CMC",
+    "hover": "3-Chlorometkatynon, stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3-MMC",
+    "hover": "3-Metylometkatynon, stymulant i empatogen z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/3-MMC",
+    "common": false
+  },
+  {
+    "name": "4-MEC",
+    "hover": "4-Metyloetkatynon, stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Butylon",
+    "hover": "Stymulant i empatogen z grupy katynonów (βk-MBDB).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Butylone",
+    "common": false
+  },
+  {
+    "name": "Katynon",
+    "hover": "Naturalny stymulant występujący w roślinie Khat.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Cathinone",
+    "common": false
+  },
+  {
+    "name": "Efylon",
+    "hover": "Stymulant z grupy katynonów (N-Etylopentylon).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Ephylone",
+    "common": false
+  },
+  {
+    "name": "Etkatynon",
+    "hover": "Stymulant z grupy katynonów (ETH-CAT).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Ethcathinone",
+    "common": false
+  },
+  {
+    "name": "Etylon",
+    "hover": "Stymulant i empatogen z grupy katynonów (βk-MDEA).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Ethylone",
+    "common": false
+  },
+  {
+    "name": "Eutylon",
+    "hover": "Stymulant z grupy katynonów (N-Etylobutylon).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Heksedron",
+    "hover": "Stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Hexedrone",
+    "common": false
+  },
+  {
+    "name": "Mefedron",
+    "hover": "Stymulant i empatogen z grupy katynonów (4-MMC).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Mephedrone",
+    "common": true
+  },
+  {
+    "name": "Metkatynon",
+    "hover": "Stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Methcathinone",
+    "common": false
+  },
+  {
+    "name": "Metylon",
+    "hover": "Stymulant i empatogen z grupy katynonów (βk-MDMA).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Methylone",
+    "common": false
+  },
+  {
+    "name": "Meksedron",
+    "hover": "Stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Mexedrone",
+    "common": false
+  },
+  {
+    "name": "N-Etyloheksedron",
+    "hover": "Stymulant z grupy katynonów (HEX-EN).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/N-Ethylhexedrone",
+    "common": false
+  },
+  {
+    "name": "N-Etylopentedron",
+    "hover": "Stymulant z grupy katynonów (NEP).",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/N-Ethylpentedrone",
+    "common": false
+  },
+  {
+    "name": "Pentedron",
+    "hover": "Stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": "/wiki/Pentedrone",
+    "common": false
+  },
+  {
+    "name": "Pentylon",
+    "hover": "Stymulant z grupy katynonów.",
+    "group": "Stymulanty",
+    "subgroup": "Katynony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4-Cl-PVP",
+    "hover": "4-Chloropiroaleron, stymulant z grupy pirolidynofenonów.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-DBFPV",
+    "hover": "Stymulant z grupy pirolidynofenonów.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "α-D2PV",
+    "hover": "Stymulant z grupy pirolidynofenonów.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "α-PBP",
+    "hover": "Alfa-Pirolidynobutiofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "α-PCyP",
+    "hover": "Alfa-Pirolidynocykloheksanofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "α-PHP",
+    "hover": "Alfa-Pirolidynoheksanofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": "/wiki/%CE%91-PHP",
+    "common": false
+  },
+  {
+    "name": "α-PiHP",
+    "hover": "Alfa-Pirolidynoizoheksanofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "α-PPP",
+    "hover": "Alfa-Pirolidynopropiofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "α-PVP",
+    "hover": "Alfa-Pirolidynowalerofenon (Flakka), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": "/wiki/%CE%91-PVP",
+    "common": false
+  },
+  {
+    "name": "MDPBP",
+    "hover": "3,4-Metylenodioksypirolidynobutiofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "MDPHP",
+    "hover": "3,4-Metylenodioksypirolidynoheksanofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "MDPHpP",
+    "hover": "3,4-Metylenodioksypirolidynoheptanofenon (MDPEP), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "MDPPP",
+    "hover": "3,4-Metylenodioksypirolidynopropiofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "MDPV",
+    "hover": "Metylenodioksypirowaleron (Monkey Dust), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": "/wiki/MDPV",
+    "common": false
+  },
+  {
+    "name": "MF-PVP",
+    "hover": "Stymulant z grupy pirolidynofenonów.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PV-8",
+    "hover": "Alfa-Pirolidynoheptylofenon (α-PHpP), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PV-9",
+    "hover": "Alfa-Pirolidynooktanofenon (α-POP), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Pirowaleron",
+    "hover": "Stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Pirolidynofenony",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "3,4-CFPP",
+    "hover": "3-Chloro-4-fluorofenylopiperazyna, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Piperazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Benzylopiperazyna",
+    "hover": "Stymulant (BZP).",
+    "group": "Stymulanty",
+    "subgroup": "Piperazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Kleferein",
+    "hover": "Substancja psychoaktywna z grupy piperazyn.",
+    "group": "Stymulanty",
+    "subgroup": "Piperazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "mCPP",
+    "hover": "Meta-chlorofenylopiperazyna, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Piperazyny",
+    "url": "/wiki/MCPP",
+    "common": false
+  },
+  {
+    "name": "TFMPP",
+    "hover": "Trifluorometylofenylopiperazyna, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Piperazyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Kokaina",
+    "hover": "Silny stymulant OUN, alkaloid tropanowy.",
+    "group": "Stymulanty",
+    "subgroup": "Tropany",
+    "url": "/wiki/Cocaine",
+    "common": true
+  },
+  {
+    "name": "Kokaetylen",
+    "hover": "Metabolit powstający w wyniku jednoczesnego spożycia kokainy i alkoholu.",
+    "group": "Stymulanty",
+    "subgroup": "Tropany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "RTI-111",
+    "hover": "Dichloropan, stymulant z grupy tropanów.",
+    "group": "Stymulanty",
+    "subgroup": "Tropany",
+    "url": "/wiki/RTI-111",
+    "common": false
+  },
+  {
+    "name": "RTI-113",
+    "hover": "Stymulant z grupy tropanów.",
+    "group": "Stymulanty",
+    "subgroup": "Tropany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Troparil",
+    "hover": "Stymulant z grupy tropanów, analog kokainy.",
+    "group": "Stymulanty",
+    "subgroup": "Tropany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4,4'-DMAR",
+    "hover": "4,4'-Dimetyloaminoreks (Serotoni), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4-Br-MAR",
+    "hover": "4-Bromo-4-metyloaminoreks, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4-Cl-MAR",
+    "hover": "4-Chloro-4-metyloaminoreks, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4-F-MAR",
+    "hover": "4-Fluoro-4-metyloaminoreks, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "4-Metyloaminoreks",
+    "hover": "Stymulant (4-MAR).",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Aminoreks",
+    "hover": "Stymulant, dawniej stosowany jako lek anorektyczny.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Cyklazodon",
+    "hover": "Stymulant i nootrop.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": "/wiki/Cyclazodone",
+    "common": false
+  },
+  {
+    "name": "N-Metylo-Cyklazodon",
+    "hover": "Stymulant, pochodna cyklazodonu.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Pemolina",
+    "hover": "Stymulant, dawniej stosowany w leczeniu ADHD.",
+    "group": "Stymulanty",
+    "subgroup": "Aminoreksy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "8-Chloroteofilina",
+    "hover": "Stymulant z grupy ksantyn.",
+    "group": "Stymulanty",
+    "subgroup": "Ksantyny",
+    "url": "/wiki/8-Chlorotheophylline",
+    "common": false
+  },
+  {
+    "name": "Kofeina",
+    "hover": "Najpopularniejszy na świecie stymulant z grupy ksantyn.",
+    "group": "Stymulanty",
+    "subgroup": "Ksantyny",
+    "url": "/wiki/Caffeine",
+    "common": true
+  },
+  {
+    "name": "Teakryna",
+    "hover": "Stymulant z grupy ksantyn, podobny do kofeiny.",
+    "group": "Stymulanty",
+    "subgroup": "Ksantyny",
+    "url": "/wiki/Theacrine",
+    "common": false
+  },
+  {
+    "name": "Teobromina",
+    "hover": "Stymulant z grupy ksantyn, występuje w kakao.",
+    "group": "Stymulanty",
+    "subgroup": "Ksantyny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "1,3-DMAA",
+    "hover": "Dimetyloamyloamina, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "1,4-DMAA",
+    "hover": "Dimetyloamyloamina, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "2-AI",
+    "hover": "2-Aminoindan, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/2-AI",
+    "common": false
+  },
+  {
+    "name": "β-OH-PHP",
+    "hover": "Beta-hydroksy-alfa-Pirolidynoheksanofenon, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Bromantan",
+    "hover": "Stymulant i anksjolityk o działaniu nootropowym.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Bromantane",
+    "common": false
+  },
+  {
+    "name": "BTCP",
+    "hover": "Benocyklidyna, selektywny inhibitor wychwytu zwrotnego dopaminy.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dezoksypipradrol",
+    "hover": "Stymulant (2-DPMP).",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Desoxypipradrol",
+    "common": false
+  },
+  {
+    "name": "Dimetokaina",
+    "hover": "Lokalny anestetyk o działaniu stymulującym.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DMHA",
+    "hover": "Dimetyloheksyloamina, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Mefedren",
+    "hover": "5-Metoksymetyloamfetamina (5-MMPA), stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Metiopropamina",
+    "hover": "Stymulant, analog metamfetaminy.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Methiopropamine",
+    "common": false
+  },
+  {
+    "name": "Nikotyna",
+    "hover": "Główny psychoaktywny alkaloid tytoniu, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Nicotine",
+    "common": true
+  },
+  {
+    "name": "NM-2-AI",
+    "hover": "N-Metylo-2-aminoindan, stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/NM-2-AI",
+    "common": false
+  },
+  {
+    "name": "Fenyloetyloamina",
+    "hover": "Naturalnie występująca amina śladowa o działaniu stymulującym.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Phenethylamine_(compound)",
+    "common": false
+  },
+  {
+    "name": "Pipradol",
+    "hover": "Stymulant OUN.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PPAP",
+    "hover": "Stymulant, inhibitor wychwytu zwrotnego dopaminy.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Prolintan",
+    "hover": "Stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Prolintane",
+    "common": false
+  },
+  {
+    "name": "Propyloheksedryna",
+    "hover": "Stymulant (Benzedrex), stosowany jako lek udrażniający nos.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": "/wiki/Propylhexedrine",
+    "common": false
+  },
+  {
+    "name": "Tiotinon",
+    "hover": "Stymulant.",
+    "group": "Stymulanty",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "ALPHA",
+    "hover": "Alfa-metyl-MDA, empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "M-ALPHA",
+    "hover": "N-Metylo-alfa-metyl-MDA, empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "MDA",
+    "hover": "Metylenodioksyamfetamina, empatogen i psychodelik.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": "/wiki/MDA",
+    "common": false
+  },
+  {
+    "name": "MDAI",
+    "hover": "Metylenodioksyaminoindan, empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": "/wiki/MDAI",
+    "common": false
+  },
+  {
+    "name": "MDEA",
+    "hover": "Metylenodioksyetylamfetamina (MDE), empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": "/wiki/MDEA",
+    "common": false
+  },
+  {
+    "name": "MDMA",
+    "hover": "Metylenodioksymetamfetamina (Ecstasy), popularny empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": "/wiki/MDMA",
+    "common": true
+  },
+  {
+    "name": "MEAI",
+    "hover": "Metoksyetylaminoindan, empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Metylon",
+    "hover": "Stymulant i empatogen z grupy katynonów (βk-MDMA).",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": "/wiki/Methylone",
+    "common": false
+  },
+  {
+    "name": "MMDA",
+    "hover": "Metoksymetylenodioksyamfetamina (5-MeO-MDA), empatogen.",
+    "group": "Empatogeny",
+    "subgroup": "MDxx",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-APB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": "/wiki/5-APB",
+    "common": false
+  },
+  {
+    "name": "5-APDB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-EAPB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "5-MAPB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": "/wiki/5-MAPB",
+    "common": false
+  },
+  {
+    "name": "5-MAPDB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "6-APB",
+    "hover": "Empatogen z grupy benzofuranów (Benzofury).",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": "/wiki/6-APB",
+    "common": false
+  },
+  {
+    "name": "6-APDB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": "/wiki/6-APDB",
+    "common": false
+  },
+  {
+    "name": "6-EAPB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "6-MAPB",
+    "hover": "Empatogen z grupy benzofuranów.",
+    "group": "Empatogeny",
+    "subgroup": "Benzofurany",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PMA",
+    "hover": "Parametoksyamfetamina, substancja o działaniu empatogennym i stymulującym.",
+    "group": "Empatogeny",
+    "subgroup": "Inne",
+    "url": "/wiki/PMA",
+    "common": false
+  },
+  {
+    "name": "PMMA",
+    "hover": "Parametoksymetamfetamina, substancja o działaniu empatogennym i stymulującym.",
+    "group": "Empatogeny",
+    "subgroup": "Inne",
+    "url": "/wiki/PMMA",
+    "common": false
+  },
+  {
+    "name": "Adrafinil",
+    "hover": "Prolek modafinilu, eugeroik (środek wspomagający czuwanie).",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": "/wiki/Adrafinil",
+    "common": false
+  },
+  {
+    "name": "Bisfluoromodafinil",
+    "hover": "Eugeroik (Fl-Modafinil), analog modafinilu.",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fladrafinil",
+    "hover": "Eugeroik, analog adrafinilu.",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Fluorenol",
+    "hover": "Metabolit modafinilu i adrafinilu, eugeroik.",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Modafinil",
+    "hover": "Eugeroik (środek wspomagający czuwanie), stosowany w leczeniu narkolepsji.",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": "/wiki/Modafinil",
+    "common": true
+  },
+  {
+    "name": "Armodafinil",
+    "hover": "Aktywny enancjomer modafinilu.",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": "/wiki/Armodafinil",
+    "common": false
+  },
+  {
+    "name": "N-Metylobisfluoromodafinil",
+    "hover": "Eugeroik (Modafiendz), analog modafinilu.",
+    "group": "Nootropy",
+    "subgroup": "Eugeroiki",
+    "url": "/wiki/N-Methylbisfluoromodafinil",
+    "common": false
+  },
+  {
+    "name": "5-HTP",
+    "hover": "5-Hydroksytryptofan, prekursor serotoniny, suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/5-Hydroxytryptophan",
+    "common": false
+  },
+  {
+    "name": "Cholina",
+    "hover": "Niezbędny składnik odżywczy, prekursor acetylocholiny.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Choline",
+    "common": false
+  },
+  {
+    "name": "Acetylocholina",
+    "hover": "Neuroprzekaźnik ważny dla pamięci i uczenia się.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Acetylcholine",
+    "common": false
+  },
+  {
+    "name": "Alpha-GPC",
+    "hover": "Źródło choliny, nootropowy suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Alpha-GPC",
+    "common": false
+  },
+  {
+    "name": "Dwuwinian choliny",
+    "hover": "Źródło choliny, suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Choline_bitartrate",
+    "common": false
+  },
+  {
+    "name": "Cytykolina",
+    "hover": "Źródło choliny i cytydyny, nootropowy suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Citicoline",
+    "common": false
+  },
+  {
+    "name": "Meklofenoksat",
+    "hover": "Nootropowy suplement diety, źródło DMAE.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Meclofenoxate",
+    "common": false
+  },
+  {
+    "name": "Kreatyna",
+    "hover": "Suplement diety popularny wśród sportowców, może mieć działanie nootropowe.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Creatine",
+    "common": false
+  },
+  {
+    "name": "DMAE",
+    "hover": "Dimetyloaminoetanol, suplement diety o potencjalnym działaniu nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "GABA",
+    "hover": "Kwas gamma-aminomasłowy, suplement diety o działaniu uspokajającym.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/GABA",
+    "common": false
+  },
+  {
+    "name": "Hordenina",
+    "hover": "Naturalnie występująca amina o działaniu stymulującym.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-Arginina",
+    "hover": "Aminokwas, prekursor tlenku azotu, suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-Cytrulina",
+    "hover": "Aminokwas, prekursor argininy, suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-DOPA",
+    "hover": "Lewodopa, prekursor dopaminy, stosowana w leczeniu choroby Parkinsona.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-Fenyloalanina",
+    "hover": "Aminokwas egzogenny, prekursor tyrozyny.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-Tyrozyna",
+    "hover": "Aminokwas, prekursor dopaminy i noradrenaliny, suplement diety.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/L-Tyrosine",
+    "common": false
+  },
+  {
+    "name": "Fenyloetyloamina",
+    "hover": "Amina śladowa, suplement diety o działaniu stymulującym.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/Phenethylamine",
+    "common": false
+  },
+  {
+    "name": "L-Tryptofan",
+    "hover": "Aminokwas egzogenny, prekursor serotoniny i melatoniny.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "S-Adenozylometionina",
+    "hover": "Suplement diety (SAMe) o potencjalnym działaniu przeciwdepresyjnym i nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Suplementy diety",
+    "url": "/wiki/S-Adenosyl_methionine",
+    "common": false
+  },
+  {
+    "name": "Aniracetam",
+    "hover": "Nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": "/wiki/Aniracetam",
+    "common": false
+  },
+  {
+    "name": "Koluracetam",
+    "hover": "Nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": "/wiki/Coluracetam",
+    "common": false
+  },
+  {
+    "name": "Fasoracetam",
+    "hover": "Nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Nefiracetam",
+    "hover": "Nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Oksyracetam",
+    "hover": "Nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": "/wiki/Oxiracetam",
+    "common": false
+  },
+  {
+    "name": "Fenylopiracetam",
+    "hover": "Nootrop z grupy racetamów o działaniu stymulującym.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": "/wiki/Phenylpiracetam",
+    "common": false
+  },
+  {
+    "name": "Hydrazyd fenylopiracetamu",
+    "hover": "Pochodna fenylopiracetamu.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Piracetam",
+    "hover": "Pierwszy syntetyczny nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": "/wiki/Piracetam",
+    "common": true
+  },
+  {
+    "name": "Pramiracetam",
+    "hover": "Nootrop z grupy racetamów.",
+    "group": "Nootropy",
+    "subgroup": "Racetamy",
+    "url": "/wiki/Pramiracetam",
+    "common": false
+  },
+  {
+    "name": "9-Me-BC",
+    "hover": "9-Metylo-β-karbolina, substancja nootropowa.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Bemityl",
+    "hover": "Substancja nootropowa i adaptogen.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Bromantan",
+    "hover": "Stymulant i anksjolityk o działaniu nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": "/wiki/Bromantane",
+    "common": false
+  },
+  {
+    "name": "EGCG",
+    "hover": "Galusan epigalokatechiny, polifenol z zielonej herbaty o potencjalnym działaniu nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Emoksypina",
+    "hover": "Substancja nootropowa i przeciwutleniacz.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "HA-966",
+    "hover": "Substancja o działaniu dysocjacyjnym i nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "IDRA-21",
+    "hover": "Substancja nootropowa z grupy ampakin.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-Teanina",
+    "hover": "Aminokwas występujący w herbacie, o działaniu relaksującym i nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": "/wiki/L-Theanine",
+    "common": false
+  },
+  {
+    "name": "Memantyna",
+    "hover": "Lek stosowany w leczeniu choroby Alzheimera, o działaniu nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": "/wiki/Memantine",
+    "common": false
+  },
+  {
+    "name": "Błękit metylenowy",
+    "hover": "Barwnik o potencjalnym działaniu nootropowym i przeciwutleniającym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "N-Acetylocysteina",
+    "hover": "Suplement diety (NAC) o działaniu przeciwutleniającym i potencjalnie nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": "/wiki/N-Acetylcysteine",
+    "common": false
+  },
+  {
+    "name": "Noopept",
+    "hover": "Substancja nootropowa, peptyd.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": "/wiki/Noopept",
+    "common": false
+  },
+  {
+    "name": "NSI-189",
+    "hover": "Substancja badana jako lek przeciwdepresyjny i nootropowy.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Pikamilon",
+    "hover": "Substancja nootropowa, połączenie niacyny i GABA.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PRE-084",
+    "hover": "Selektywny agonista receptora sigma-1.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PRL-8-53",
+    "hover": "Substancja nootropowa.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Ro5-4864",
+    "hover": "Benzodiazepina działająca na obwodowe receptory benzodiazepinowe.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Sunifiram",
+    "hover": "Substancja nootropowa z grupy ampakin.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Tianeptyna",
+    "hover": "Atypowy lek przeciwdepresyjny o działaniu nootropowym.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": "/wiki/Tianeptine",
+    "common": false
+  },
+  {
+    "name": "Ester etylowy tianeptyny",
+    "hover": "Pochodna tianeptyny.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Unifiram",
+    "hover": "Substancja nootropowa.",
+    "group": "Nootropy",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Ibogaina",
+    "hover": "Psychoaktywny alkaloid, agonista receptora κ-opioidowego.",
+    "group": "Różne",
+    "subgroup": "Agoniści receptora κ-opioidowego",
+    "url": "/wiki/Ibogaine",
+    "common": false
+  },
+  {
+    "name": "Nalbufina",
+    "hover": "Opioidowy lek przeciwbólowy, agonista κ i antagonista μ.",
+    "group": "Różne",
+    "subgroup": "Agoniści receptora κ-opioidowego",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Salwinoryna A",
+    "hover": "Główny psychoaktywny składnik Salvia divinorum, silny agonista receptora κ-opioidowego.",
+    "group": "Różne",
+    "subgroup": "Agoniści receptora κ-opioidowego",
+    "url": "/wiki/Salvinorin_A",
+    "common": false
+  },
+  {
+    "name": "Eter etoksymetylowy salwinoryny B",
+    "hover": "Półsyntetyczna pochodna salwinoryny.",
+    "group": "Różne",
+    "subgroup": "Agoniści receptora κ-opioidowego",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Eter metoksymetylowy salwinoryny B",
+    "hover": "Półsyntetyczna pochodna salwinoryny.",
+    "group": "Różne",
+    "subgroup": "Agoniści receptora κ-opioidowego",
+    "url": "/wiki/Salvinorin_B_methoxymethyl_ether",
+    "common": false
+  },
+  {
+    "name": "5-Hydroksytryptofan",
+    "hover": "5-HTP, prekursor serotoniny, może wpływać na sny.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": "/wiki/5-Hydroxytryptophan",
+    "common": false
+  },
+  {
+    "name": "Acetylocholina",
+    "hover": "Neuroprzekaźnik, którego poziom może wpływać na świadome śnienie (boostery).",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": "/wiki/Acetylcholine",
+    "common": false
+  },
+  {
+    "name": "Calea ternifolia",
+    "hover": "Roślina (Calea zacatechichi) tradycyjnie używana do wywoływania świadomych snów.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": "/wiki/Calea_ternifolia",
+    "common": false
+  },
+  {
+    "name": "Entada rheedii",
+    "hover": "Afrykańskie zioło snów, roślina używana do wpływania na sny.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": "/wiki/Entada_rheedii",
+    "common": false
+  },
+  {
+    "name": "Galantamina",
+    "hover": "Inhibitor acetylocholinoesterazy, może zwiększać szansę na świadome śnienie.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": "/wiki/Galantamine",
+    "common": false
+  },
+  {
+    "name": "Hupercyna A",
+    "hover": "Inhibitor acetylocholinoesterazy, może wpływać na sny.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Melatonina",
+    "hover": "Hormon regulujący sen, może wpływać na intensywność snów.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": "/wiki/Melatonin",
+    "common": false
+  },
+  {
+    "name": "Silene undulata",
+    "hover": "Afrykański korzeń snów, roślina używana do wpływania na sny.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Witamina B12",
+    "hover": "Witamina, której suplementacja może wpływać na intensywność snów.",
+    "group": "Różne",
+    "subgroup": "Oneirogeny",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Ayahuasca",
+    "hover": "Kombinacja DMT i inhibitora MAO.",
+    "group": "Różne",
+    "subgroup": "Kombinacje wielosubstancjowe",
+    "url": "/wiki/Ayahuasca",
+    "common": true
+  },
+  {
+    "name": "AXS-05",
+    "hover": "Kombinacja bupropionu i dekstrometorfanu.",
+    "group": "Różne",
+    "subgroup": "Kombinacje wielosubstancjowe",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Changa",
+    "hover": "Kombinacja DMT i inhibitora MAO w formie ziołowej do palenia.",
+    "group": "Różne",
+    "subgroup": "Kombinacje wielosubstancjowe",
+    "url": "/wiki/Changa",
+    "common": false
+  },
+  {
+    "name": "DXM & DPH",
+    "hover": "Kombinacja dekstrometorfanu i difenhydraminy (Counterflipping).",
+    "group": "Różne",
+    "subgroup": "Kombinacje wielosubstancjowe",
+    "url": "/wiki/DXM_&_DPH",
+    "common": false
+  },
+  {
+    "name": "Chloroform",
+    "hover": "Inhalant, historycznie stosowany jako środek znieczulający.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Chloroform",
+    "common": false
+  },
+  {
+    "name": "Eter dietylowy",
+    "hover": "Inhalant (Eter), historycznie stosowany jako środek znieczulający.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Diethyl_ether",
+    "common": false
+  },
+  {
+    "name": "Podtlenek azotu",
+    "hover": "Inhalant (N₂O), gaz dysocjacyjny.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Nitrous_oxide",
+    "common": true
+  },
+  {
+    "name": "Azotyny alkilowe",
+    "hover": "Inhalanty (Poppers) rozszerzające naczynia krwionośne.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Poppers",
+    "common": false
+  },
+  {
+    "name": "Azotyn amylu",
+    "hover": "Składnik Poppers.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Poppers",
+    "common": false
+  },
+  {
+    "name": "Azotyn izopropylu",
+    "hover": "Składnik Poppers.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Poppers",
+    "common": false
+  },
+  {
+    "name": "Azotyn izobutylu",
+    "hover": "Składnik Poppers.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Poppers",
+    "common": false
+  },
+  {
+    "name": "Ksenon",
+    "hover": "Gaz szlachetny o działaniu dysocjacyjnym i anestetycznym.",
+    "group": "Różne",
+    "subgroup": "Inhalanty",
+    "url": "/wiki/Xenon",
+    "common": false
+  },
+  {
+    "name": "DHEA",
+    "hover": "Dehydroepiandrosteron, hormon steroidowy, agonista sigma-1.",
+    "group": "Różne",
+    "subgroup": "Sigmaergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DXM",
+    "hover": "Dekstrometorfan, agonista sigma-1.",
+    "group": "Różne",
+    "subgroup": "Sigmaergiki",
+    "url": "/wiki/DXM",
+    "common": true
+  },
+  {
+    "name": "Memantyna",
+    "hover": "Antagonista NMDA i agonista sigma-1.",
+    "group": "Różne",
+    "subgroup": "Sigmaergiki",
+    "url": "/wiki/Memantine",
+    "common": false
+  },
+  {
+    "name": "PRE-084",
+    "hover": "Selektywny agonista receptora sigma-1.",
+    "group": "Różne",
+    "subgroup": "Sigmaergiki",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Progesteron",
+    "hover": "Hormon steroidowy, ligand sigma-1.",
+    "group": "Różne",
+    "subgroup": "Sigmaergiki",
+    "url": "/wiki/Progesterone",
+    "common": false
+  },
+  {
+    "name": "Kabergolina",
+    "hover": "Agonista dopaminy, stosowany w leczeniu hiperprolaktynemii.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Ergotamina",
+    "hover": "Alkaloid sporyszu, stosowany w leczeniu migreny.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "HCl",
+    "hover": "Kwas chlorowodorowy, silny kwas nieorganiczny.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "izo-LSD",
+    "hover": "Izomer LSD.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "nor-LSD",
+    "hover": "Metabolit LSD.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "PRE-084",
+    "hover": "Selektywny agonista receptora sigma-1.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Sildenafil",
+    "hover": "Lek stosowany w leczeniu zaburzeń erekcji (Viagra).",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": true
+  },
+  {
+    "name": "Tadalafil",
+    "hover": "Lek stosowany w leczeniu zaburzeń erekcji (Cialis).",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": true
+  },
+  {
+    "name": "Testosteron",
+    "hover": "Główny męski hormon płciowy.",
+    "group": "Różne",
+    "subgroup": "Różne",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "γ-Aminobutyric acid",
+    "hover": "Kwas gamma-aminomasłowy (GABA), główny neuroprzekaźnik hamujący.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminokwasy",
+    "url": "/wiki/%CE%93-Aminobutyric_acid",
+    "common": false
+  },
+  {
+    "name": "L-Glutaminian",
+    "hover": "Główny neuroprzekaźnik pobudzający.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminokwasy",
+    "url": "/wiki/L-Glutamate",
+    "common": false
+  },
+  {
+    "name": "L-Glicyna",
+    "hover": "Aminokwas działający jako neuroprzekaźnik hamujący.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminokwasy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "L-Fenyloalanina",
+    "hover": "Aminokwas, prekursor neuroprzekaźników.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminokwasy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Dopamina",
+    "hover": "Monoaminowy neuroprzekaźnik związany z układem nagrody, motywacją i ruchem.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Monoaminy",
+    "url": "/wiki/Dopamine",
+    "common": false
+  },
+  {
+    "name": "Epinefryna",
+    "hover": "Adrenalina, hormon i neuroprzekaźnik związany z reakcją 'walcz lub uciekaj'.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Monoaminy",
+    "url": "/wiki/Epinephrine",
+    "common": false
+  },
+  {
+    "name": "Histamina",
+    "hover": "Monoaminowy neuroprzekaźnik zaangażowany m.in. w regulację snu i reakcje alergiczne.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Monoaminy",
+    "url": "/wiki/Histamine",
+    "common": false
+  },
+  {
+    "name": "Melatonina",
+    "hover": "Hormon i neuroprzekaźnik regulujący rytm dobowy.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Monoaminy",
+    "url": "/wiki/Melatonin",
+    "common": false
+  },
+  {
+    "name": "Norepinefryna",
+    "hover": "Noradrenalina, neuroprzekaźnik i hormon związany z czujnością i reakcją na stres.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Monoaminy",
+    "url": "/wiki/Norepinephrine",
+    "common": false
+  },
+  {
+    "name": "Serotonina",
+    "hover": "Monoaminowy neuroprzekaźnik (5-HT) regulujący nastrój, sen, apetyt.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Monoaminy",
+    "url": "/wiki/Serotonin",
+    "common": false
+  },
+  {
+    "name": "Dopamina",
+    "hover": "Katecholamina, neuroprzekaźnik.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminy śladowe",
+    "url": "/wiki/Dopamine",
+    "common": false
+  },
+  {
+    "name": "Fenyloetyloaminy",
+    "hover": "Grupa amin śladowych, do której należy fenyloetyloamina.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminy śladowe",
+    "url": "/wiki/Phenethylamine",
+    "common": false
+  },
+  {
+    "name": "Fenyloetyloamina",
+    "hover": "Amina śladowa.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminy śladowe",
+    "url": "/wiki/Phenethylamine_(compound)",
+    "common": false
+  },
+  {
+    "name": "Tryptamina",
+    "hover": "Amina śladowa, prekursor serotoniny.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminy śladowe",
+    "url": "/wiki/Tryptamine_(compound)",
+    "common": false
+  },
+  {
+    "name": "Serotonina",
+    "hover": "Amina śladowa (5-HT), ważny neuroprzekaźnik.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Aminy śladowe",
+    "url": "/wiki/Serotonin",
+    "common": false
+  },
+  {
+    "name": "BPC-157",
+    "hover": "Syntetyczny peptyd badany pod kątem właściwości regeneracyjnych.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Cerebrolizyna",
+    "hover": "Mieszanina peptydów stosowana w leczeniu zaburzeń neurologicznych.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Diheksa",
+    "hover": "Syntetyczny peptyd o potencjalnym działaniu nootropowym.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "DSIP",
+    "hover": "Peptyd indukujący sen delta.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Epitalon",
+    "hover": "Syntetyczny peptyd o potencjalnych właściwościach przeciwstarzeniowych.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "N-Acetylo Selank Amidat",
+    "hover": "Zmodyfikowana forma peptydu Selank.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "N-Acetylo Selank",
+    "hover": "Zmodyfikowana forma peptydu Selank.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "N-Acetylo Semax Amidat",
+    "hover": "Zmodyfikowana forma peptydu Semax.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "N-Acetylo Semax",
+    "hover": "Zmodyfikowana forma peptydu Semax.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Neuropeptyd S",
+    "hover": "Neuropeptyd zaangażowany w regulację snu, lęku i apetytu.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Oksytocyna",
+    "hover": "Hormon peptydowy i neuroprzekaźnik związany z więzią społeczną i zaufaniem.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "P21",
+    "hover": "Syntetyczny peptyd badany pod kątem działania nootropowego.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Selank",
+    "hover": "Syntetyczny peptyd o działaniu przeciwlękowym i nootropowym.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": null,
+    "common": false
+  },
+  {
+    "name": "Semax",
+    "hover": "Syntetyczny peptyd o działaniu nootropowym i neuroprotekcyjnym.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Peptydy",
+    "url": "/wiki/Semax",
+    "common": false
+  },
+  {
+    "name": "Acetylocholina",
+    "hover": "Neuroprzekaźnik.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Inne",
+    "url": "/wiki/Acetylcholine",
+    "common": false
+  },
+  {
+    "name": "Anandamid",
+    "hover": "Endokannabinoid, neuroprzekaźnik.",
+    "group": "Neuroprzekaźniki",
+    "subgroup": "Inne",
+    "url": null,
+    "common": false
+  }
+]
