@@ -59,7 +59,7 @@ model VerificationToken {
 
 model SubstanceGroup {
   id         String              @id @default(cuid())
-  name       String              @unique
+  name       String
   value      String              @unique
   subGroups  SubstanceSubGroup[]
   substances Substance[]
@@ -67,7 +67,7 @@ model SubstanceGroup {
 
 model SubstanceSubGroup {
   id         String          @id @default(cuid())
-  name       String          @unique
+  name       String
   value      String          @unique
   group      SubstanceGroup? @relation(fields: [groupId], references: [id])
   groupId    String
@@ -76,9 +76,10 @@ model SubstanceSubGroup {
 
 model Substance {
   id         String            @id @default(cuid())
-  name       String            @unique
+  name       String
   value      String            @unique
   hover      String
+  url        String
   group      SubstanceGroup    @relation(fields: [groupId], references: [id])
   groupId    String
   subGroup   SubstanceSubGroup @relation(fields: [subGroupId], references: [id])
